@@ -9,3 +9,12 @@ My work,timetable,notes,h.w.,to-do..etc.
 
 BME WEBSITE LINK :  https://bit.ly/3FgDc7o
 
+1st SEMISTER
+  * BME
+  * BEE
+  * CHEMISTRY
+  * MATHEMATICS-1
+  * CHEMISTRY PRACTICAL
+  * BEE PRACTICAL
+  * WORKSHOP
+  
